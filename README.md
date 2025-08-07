@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/addis247/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/addis247/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/addis247/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/addis247/Active-Directory-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/addis247/azure-network-protocols)
   - [Azure SOC + Honeynet: Live Traffic Analysis](https://github.com/addis247/azure-tpot-honeynet)
 
