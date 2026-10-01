@@ -14,7 +14,7 @@ Security+ certified cybersecurity professional with 8+ years of experience suppo
 
 ➡️ Repository:
 <br>
-<a href="https://github.com/addis247enterprise-ai-governance-risk-assessment
+<a href="https://github.com/addis247/chatgpt-enterprise-ai-risk-assessment">
 ChatGPT Enterprise AI Governance Risk Assessment
 </a>
 
