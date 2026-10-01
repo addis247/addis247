@@ -39,7 +39,7 @@ osTicket: Prerequisites and Installation
 
 ➡️ Repository:
 <br>
-<a href="https://github.com/addis247/Active--
+<a href="https://github.com/addis247/Active-Directory-"
 Configuring Active Directory Within Azure VMs
 </a>
 
