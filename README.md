@@ -98,6 +98,3 @@ LinkedIn
 
 <br><br>
 
-https://www.instagram.com/eazy_z89
-Instagram
-</a>
